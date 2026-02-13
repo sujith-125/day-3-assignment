@@ -1,0 +1,14 @@
+. Write a method which should join the given string and number:
+      For eg:   input : Hi, 5    Output: Hi5
+
+public class assaign {
+	
+	    public static String joinStringAndNumber(String text, int number) {
+	        return text + number;
+	    }
+
+	    public static void main(String[] args) {
+	        String result = joinStringAndNumber("hi", 5);
+	        System.out.println(result); 
+	    }}
+poutput :hi5
