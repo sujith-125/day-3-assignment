@@ -11,4 +11,4 @@ public class assaign {
 	        String result = joinStringAndNumber("hi", 5);
 	        System.out.println(result); 
 	    }}
-poutput :hi5
+output :hi5
