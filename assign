@@ -1,4 +1,30 @@
-. Write a method which should join the given string and number:
+1. Write a program to print odd numbers between 21 to 40 using while loop and jumping 
+
+public class jumb {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int num =21;
+		while(num<=40) {
+			System.out.println(num);
+			num =num +2;
+		}
+
+	}
+
+}
+21
+23
+25
+27
+29
+31
+33
+35
+37
+39
+
+2. Write a method which should join the given string and number:
       For eg:   input : Hi, 5    Output: Hi5
 
 public class assaign {
